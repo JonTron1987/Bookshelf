@@ -1,0 +1,10 @@
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\bin\Debug\BookShelfReader.exe.config
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\bin\Debug\BookShelfReader.exe
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\bin\Debug\BookShelfReader.pdb
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.csprojAssemblyReference.cache
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.Form1.resources
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.Properties.Resources.resources
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.csproj.GenerateResource.cache
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.csproj.CoreCompileInputs.cache
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.exe
+C:\Users\ACERCOMPUTER\source\repos\BookShelfReader\BookShelfReader\obj\Debug\BookShelfReader.pdb
